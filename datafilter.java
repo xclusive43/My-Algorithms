@@ -47,7 +47,7 @@ static ArrayList <Integer> data = new ArrayList<Integer>(10);
 			else {
 			   
 				int da= raw.get(a);
-			    data.add(da);
+			        data.add(da);
 			}
 		}
 		System.out.print( "/////////////////\n");
